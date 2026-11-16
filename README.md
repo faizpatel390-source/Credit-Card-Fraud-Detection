@@ -97,43 +97,6 @@ The model predicts whether a credit card transaction is:
 
 The project demonstrates how Machine Learning can be applied to financial fraud detection problems.
 
-## 🚀 How to Run This Project
-
-**Step 1: Clone the repository**
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
-```
-
-**Step 2: Install required libraries**
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
-
-**Step 3: Open Jupyter Notebook**
-
-```bash
-jupyter notebook
-```
-
-**Step 4:** Open the project notebook and run the cells sequentially.
-
-## 📁 Project Structure
-
-```text
-Credit-Card-Fraud-Detection/
-│
-├── data/
-│   └── creditcard.csv
-│
-├── credit_card_fraud_detection.ipynb
-│
-├── README.md
-│
-└── requirements.txt
-```
-
 ## 💡 Key Learnings
 
 - Understanding real-world financial datasets.
